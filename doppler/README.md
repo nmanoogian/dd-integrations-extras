@@ -16,15 +16,15 @@ Once the installation is complete, Doppler Activity Logs will automatically star
 
 ### Configuration
 
-The integration will automatically send all Doppler Activity Logs to Datadog, no further configuration is available at this time.
+The integration will automatically send all Doppler Activity Logs to Datadog. No further configuration is available at this time.
 
 ### Validation
 
-During installation, Doppler creates a test log to verify that the installed credentials work properly. Verify that this test log is present in your logs to verify the installation.
+During installation, Doppler creates a test log to verify that the installed credentials work properly. Confirm that this test log is present in your logs to verify the installation.
 
 ### Uninstallation
 
-- Go to your [Doppler workplace settings][4] and disconnect the Datadog integration
+- Go to your [Doppler workplace settings][4] and disconnect the Datadog integration.
 - Remove all API keys associated with this integration by searching for the integration name on the [Datadog API Keys page][5].
 
 ## Data Collected
